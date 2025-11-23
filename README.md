@@ -184,6 +184,9 @@ The script picks a font at random from the *fonts* directory.
 | fonts/ko | Korean |
 | fonts/ja | Japanese |
 | fonts/th | Thai |
+| fonts/ar | Arabic |
+| fonts/hi | Hindi |
+| fonts/bn | Bengali |
 
 Simply add/remove fonts until you get the desired output.
 
